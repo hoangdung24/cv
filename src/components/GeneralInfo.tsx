@@ -91,7 +91,7 @@ export const GeneralInfo = () => {
         {data[language].map((el, idx) => {
           return (
             <Fragment key={idx}>
-              <div className="mt-1">{el.icon}</div>
+              <div className="mt-1 print:mt-0">{el.icon}</div>
               <div>{el.text}</div>
             </Fragment>
           );

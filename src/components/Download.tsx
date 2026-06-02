@@ -30,7 +30,7 @@ export const Download = () => {
           //
         }
       }}
-      className="bg-background p-2 shadow-xs hover:bg-background/75 cursor-pointer"
+      className="bg-background p-2 shadow-xs hover:bg-background/75 cursor-pointer print:invisible"
     >
       <DownloadIcon aria-hidden="true" className="size-4 text-text" />
     </Button>
