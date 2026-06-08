@@ -17,7 +17,7 @@ const data = {
     },
     {
       title: "Kiến thức hỗ trợ",
-      items: ["Design Patterns", "Software Architecture", "AI Agent"],
+      items: ["Design Patterns", "Software Architecture", "AI Agent", "SQL"],
     },
     {
       title: "Ngoại ngữ",
@@ -39,7 +39,7 @@ const data = {
     },
     {
       title: "Supporting Knowledge",
-      items: ["Design Patterns", "Software Architecture", "AI Agent"],
+      items: ["Design Patterns", "Software Architecture", "AI Agent", "SQL"],
     },
     {
       title: "Languages",
