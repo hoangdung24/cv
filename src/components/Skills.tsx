@@ -38,7 +38,7 @@ const data = {
       items: ["Expo", "Flutter", "NextJS", "SolidJS"],
     },
     {
-      title: "Supporting Knowledge",
+      title: "Supporting Knowledges",
       items: ["Design Patterns", "Software Architecture", "AI Agent", "SQL"],
     },
     {
