@@ -15,7 +15,7 @@ const data = {
       techStack: ["NextJS", "Chakra UI", "Zustand"],
       additionalCss: "print:hidden",
       description:
-        "Tham gia phát triển ý tưởng và triển khai giao diện trang quản trị cho hệ thống. Chịu trách nhiệm lựa chọn công nghệ và kết quả của sản phẩm.",
+        "Tham gia phát triển ý tưởng và triển khai giao diện trang quản trị cho hệ thống. Lựa chọn công nghệ và đảm bảo kết quả sản phẩm.",
     },
     {
       title: "Ứng dụng tích điểm, đổi điểm - App người dùng & App Người bán",
@@ -26,20 +26,20 @@ const data = {
         "Zustand",
       ],
       description:
-        "Tham gia phát triển ý tưởng và triển khai giao diện cho hệ thống. Chịu trách nhiệm lựa chọn công nghệ và kết quả của sản phẩm. Build, upload app lên App Store và Google Play.",
+        "Tham gia phát triển ý tưởng và triển khai giao diện cho hệ thống. Lựa chọn công nghệ và đảm bảo kết quả sản phẩm. Build, upload app lên App Store và Google Play.",
     },
     {
       title:
         "Ứng dụng tích điểm, đổi điểm V2 - Trang quản trị dành cho người bán",
       techStack: ["NextJS", "Shadcn UI", "Zustand"],
       description:
-        "Đút kết kinh nghiệm từ phiên bản trước, triển khai một giao diện quản trị riêng dành cho người bán với quy trình tinh gọn. Các thiết lập nhiều bước được đưa lên web thay vì app để đơn giản trải nghiệm trên app nhất có thể. Chịu trách nhiệm lựa chọn công nghệ và kết quả của sản phẩm.",
+        "Đúc kết kinh nghiệm từ phiên bản trước, triển khai một giao diện quản trị riêng dành cho người bán với quy trình tinh gọn. Các thiết lập nhiều bước được đưa lên web thay vì app để đơn giản trải nghiệm trên app nhất có thể. Lựa chọn công nghệ và đảm bảo kết quả sản phẩm.",
     },
     {
       title: "Ứng dụng tích điểm, đổi điểm V2 - Trang quản trị dành cho admin",
       techStack: ["NextJS", "Shadcn UI", "Zustand"],
       description:
-        "Triển khai lại giao diện trang quản trị dành cho admin với quy trình tinh gọn hơn. Chịu trách nhiệm lựa chọn công nghệ và kết quả của sản phẩm.",
+        "Triển khai lại giao diện trang quản trị dành cho admin với quy trình tinh gọn hơn. Lựa chọn công nghệ và đảm bảo kết quả sản phẩm.",
       additionalCss: "print:hidden",
     },
     {
@@ -51,7 +51,7 @@ const data = {
         "Zustand",
       ],
       description:
-        "Triển khai lại giao diện app người dùng với quy trình tinh gọn hơn. Chịu trách nhiệm lựa chọn công nghệ và kết quả của sản phẩm. Build, upload app lên App Store và Google Play.",
+        "Triển khai lại giao diện app người dùng với quy trình tinh gọn hơn. Lựa chọn công nghệ và đảm bảo kết quả sản phẩm. Build, upload app lên App Store và Google Play.",
     },
     {
       title: "Ứng dụng tích điểm, đổi điểm V2 - App người bán",
